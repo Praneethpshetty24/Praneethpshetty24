@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Praneethpshetty24
+- 👋 Hi, I’m Praneeth P Shetty
 
 
