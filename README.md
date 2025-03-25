@@ -33,18 +33,9 @@ Hey there! I'm Praneeth, a passionate full-stack developer with a diverse tech s
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 💡 About Me
-- 🌱 Constantly learning and exploring new technologies
-- 💻 Love building full-stack applications that solve real-world problems
-- 🤝 Open to collaborations and exciting project opportunities
-
-### 📊 GitHub Stats
-![Praneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
----
 
-⭐️ From [Praneeth P Shetty](https://github.com/yourgithubusername)
