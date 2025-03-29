@@ -10,10 +10,8 @@
 
 <h2 align="center">🔧 Technologies & Skills</h2>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="60%">
-      
+<div align="center">
+
 ### 💻 Frontend Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -41,12 +39,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-  </td>
-  <td align="center" width="40%">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="180"/>
-  </td>
-  </tr>
-</table>
+</div>
 
 ---
 
